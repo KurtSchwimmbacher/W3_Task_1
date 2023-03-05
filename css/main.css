@@ -35,11 +35,20 @@ to one another */
     margin-top: 0px;
 }
 
-/*Styling for the column sections */
+
+/*Styling for the column sections*/
+
+/*Css to bring the heading of each
+ section closer to the section*/
+h4{
+    margin-bottom: 0%;
+}
+
 .full-col{
     width: 80%;
     height: 70px;
     margin-left: 10%;
+    margin-bottom: 10%;
     background-color: gray;
     text-align: center;
     color: #ffffff;
