@@ -49,15 +49,17 @@ h4{
 
 .full-col{
     height: 90px;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 .col-1{
-    width: 80%;
+    width: 99%;
     height: 70px;
-    margin-left: 10%;
     background-color: gray;
     text-align: center;
     color: #ffffff;
+    margin: 1%;
 }
 
 /*Aligning the columns*/
