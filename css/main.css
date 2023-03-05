@@ -86,3 +86,19 @@ h4{
     margin: 1%;
     float: left;
 }
+
+.half-col{
+    height: 260px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.col-2{
+    width: 48%;
+    height: 210px;
+    background-color: gray;
+    text-align: center;
+    color: #ffffff;
+    margin: 1%;
+    float: left;
+}
